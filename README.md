@@ -7,7 +7,7 @@
   <p>
     <em>Estudiante de Ingeniería Electrónica 🚀</em>
   </p>
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Electrónica en acción">
+  <img src="https://arrontesybarrera.com/creatibo/wp-content/uploads/2020/12/Peanut-Butter-Gif-animado.gif">
 </div>
 
 ---
@@ -26,20 +26,11 @@
 
 ## 🚀 Proyectos Destacados
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/tu-usuario/robot-seguidor-linea/main/preview.png" width="150" alt="AutoSeg">
-      <p><strong>AutoSeg</strong></p>
-      <samp>Robot seguidor de línea con DSP</samp>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/tu-usuario/bms-lion/main/preview.png" width="150" alt="BMS+">
-      <p><strong>BMS+</strong></p>
-      <samp> Juegos en Python – Un clásico arcade recreado con pygame.</samp>
-    </td>    
-  </tr>
-</table>
+
+   - Robot seguidor de línea con DSP</samp>
+
+   - Juegos en Python – Un clásico arcade recreado con pygame.</samp>
+    
 
 ---
 
@@ -55,7 +46,7 @@
 
 ## 📊 Mi actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="http://www.topito.com/wp-content/uploads/2013/01/code-21.gif" />
 </p>
 
 ---
